@@ -1,2 +1,2 @@
 # NLP
-NLP model for agriculture purposes using webscraping
+NLP QA for agriculture purposes using GPT2 and webscraping
